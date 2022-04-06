@@ -22,7 +22,8 @@ let package = Package(
             name: "DayOneMocks",
             dependencies: [],
             resources: [
-                .copy("Resources/JSON")
+                .copy("Resources/JSON"),
+                .copy("Scripts")
             ]),
     ]
 )
