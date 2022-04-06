@@ -1,0 +1,10 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/api/doWebUser"
+    },
+    "response": {
+        "status": 200,
+        "bodyFileName": "DOWebEntryRevision.json"
+    }
+}
